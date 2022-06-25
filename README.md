@@ -1,4 +1,4 @@
-# parallel algrithm homework
+# parallel algorithm homework
 This is a homework.
 
 # Dependency:
